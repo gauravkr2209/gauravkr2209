@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gaurav Kumar
 
-<!--
-**gauravkr2209/gauravkr2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Engineer based in New Delhi, India, building tools that answer questions before you finish asking them.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Engineering
+- RAG (Retrieval-Augmented Generation)
+- AI agents
+- Python
+- Machine Learning
+
+## Featured projects
+
+- [Downshift](https://github.com/gauravkr2209/downshift-agent-router) — record an AI agent's run, replay each step on cheaper NVIDIA Nemotron tiers via Nebius Token Factory, and get a verified routing config that cuts cost without losing quality.
+- [DocuSense](https://github.com/gauravkr2209/DocuSense) — AI-powered assistant that summarizes student project reports and answers questions only from the uploaded documents (RAG).
