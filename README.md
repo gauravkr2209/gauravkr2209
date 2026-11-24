@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Kumar 👋
 
-**Aspiring AI Engineer | New Delhi, India**
+**AI Engineer | New Delhi, India**
 
 Building tools that answer questions before you finish asking them. Focused on RAG, AI agents, and applied LLM systems — job-ready by December 2026, targeting AI / ML Engineer roles in Delhi NCR. Available to join in 15 days.
 
